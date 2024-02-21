@@ -1,0 +1,23 @@
+{
+  "name": "3js",
+  "version": "1.0.0",
+  "description": "3js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx vite"
+  },
+  "type": "module",
+  "author": "Ryan W Replogle",
+  "license": "ISC",
+  "dependencies": {
+    "@tweenjs/tween.js": "^23.1.1",
+    "eslint": "^8.56.0",
+    "three": "^0.161.0",
+    "three.interactive": "^1.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "vite": "^5.1.3"
+  }
+}

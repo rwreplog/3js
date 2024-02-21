@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "eslint.debug": false,
+    "eslint.enable": false,
+}
